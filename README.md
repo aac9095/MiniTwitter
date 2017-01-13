@@ -1,5 +1,7 @@
 # MiniTwitter
 
+MiniTwitter is minimalist app emulating core features of Twitter website. The project focusses on building model associations (has-many through associations). A User can create multiple posts(each of which belong to one User) and a User can folow multiple Users (each of which can be followed by multiple Users).
+
 
 ## Getting started
 
